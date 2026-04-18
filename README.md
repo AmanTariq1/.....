@@ -1,1 +1,2 @@
-# .....
+DIGITAL IMAGE PROCESSING PROJECT
+ Skin Cancer Detection (PH2 Dataset)
